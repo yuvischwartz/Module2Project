@@ -1,3 +1,32 @@
-h1 {
-    color: pink;
+
+body {
+    background-color: #bde0fe;  
 }
+
+header {
+    background-color: white;
+    color: black;
+    position: fixed;
+    width: 100%;
+    height:80px;
+    text-align: center;
+    font-family: "Lucida Console", Monaco, monospace;
+    font-size:85%;
+}
+
+#logo {
+position: absolute;
+top: 10%;
+left: 39%;
+}
+
+h4{
+    font-family: "Courier New", Courier, monospace;
+    position: absolute;
+    top: 14%;
+    right:3%;
+}
+#navigation {
+
+}
+
